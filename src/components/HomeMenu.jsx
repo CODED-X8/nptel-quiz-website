@@ -18,10 +18,10 @@ export function HomeMenu({ onStart }) {
           <Rocket className="w-10 h-10 sm:w-14 sm:h-14 text-neon-blue" />
         </div>
         <h1 className="text-5xl sm:text-6xl font-black mb-4 tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-white via-slate-200 to-slate-400">
-          MCQ Mastery
+          Forest Management NPTEL Practice
         </h1>
         <p className="text-lg sm:text-xl text-slate-400 font-medium max-w-xl mx-auto flex items-center justify-center gap-2">
-          <Sparkles className="w-5 h-5 text-neon-cyan" /> 
+          <Sparkles className="w-5 h-5 text-neon-cyan" />
           Prepare for success. {totalQuestions} questions available.
         </p>
       </div>
@@ -38,7 +38,7 @@ export function HomeMenu({ onStart }) {
               <p className="text-sm text-slate-400">Target specific modules</p>
             </div>
           </div>
-          
+
           <div className="grid grid-cols-3 sm:grid-cols-4 gap-3">
             {availableWeeks.map(week => (
               <button
@@ -61,7 +61,7 @@ export function HomeMenu({ onStart }) {
           <p className="text-slate-400 mb-8 max-w-xs">
             Test your comprehensive knowledge with a shuffled set of all available questions.
           </p>
-          
+
           <button
             onClick={() => onStart({ mode: 'mix' })}
             className="w-full py-4 rounded-xl bg-neon-blue hover:bg-indigo-500 text-white font-bold tracking-widest uppercase transition-all shadow-[0_0_20px_rgba(99,102,241,0.4)] hover:shadow-[0_0_30px_rgba(99,102,241,0.6)] hover:-translate-y-1 btn-space"
