@@ -2,6 +2,7 @@ import { useState, useMemo } from 'react'
 import { HomeMenu } from './components/HomeMenu'
 import { QuizInterface } from './components/QuizInterface'
 import allQuestions from './assets/questions.json'
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const [session, setSession] = useState(null); // null, { mode: 'week', week: 0 }, { mode: 'mix' }
@@ -17,7 +18,7 @@ function App() {
   // Compute active questions based on session
   const activeQuestions = useMemo(() => {
     if (!session) return [];
-    
+
     let filtered = [];
     if (session.mode === 'week') {
       filtered = allQuestions.filter(q => q.week === session.week);
@@ -36,7 +37,7 @@ function App() {
     <div className="min-h-screen text-slate-100 flex items-center justify-center p-4">
       {/* Background radial overlay for depth */}
       <div className="fixed inset-0 pointer-events-none bg-[radial-gradient(ellipse_at_center,rgba(0,0,0,0)_0%,rgba(0,0,0,0.6)_100%)] z-0"></div>
-      
+
       <main className="z-10 w-full">
         {!session ? (
           <HomeMenu onStart={handleStart} />
