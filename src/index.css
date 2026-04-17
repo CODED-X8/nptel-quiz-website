@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: #0f111a;
+    --card-bg: rgba(22, 25, 43, 0.6);
+    --border-color: rgba(99, 102, 241, 0.3);
+    --neon-blue: #6366f1;
+    --neon-cyan: #22d3ee;
+    --neon-green: #10b981;
+    --neon-red: #f43f5e;
+  }
+}
+
+body {
+  background-color: var(--background);
+  background-image: 
+    radial-gradient(circle at 15% 50%, rgba(99, 102, 241, 0.08) 0%, transparent 25%),
+    radial-gradient(circle at 85% 30%, rgba(34, 211, 238, 0.08) 0%, transparent 25%);
+  color: #f8fafc;
+  font-family: 'Inter', system-ui, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 15px rgba(99, 102, 241, 0.3); }
+  50% { box-shadow: 0 0 25px rgba(34, 211, 238, 0.5); }
+}
+
+.glass-panel {
+  background: var(--card-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+
+.btn-space {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.btn-space::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+  transition: all 0.4s ease;
+}
+
+.btn-space:hover::before {
+  left: 100%;
+}
+
+.btn-space:hover {
+  border-color: var(--neon-cyan);
+  box-shadow: 0 0 15px rgba(34, 211, 238, 0.3);
+  transform: translateY(-2px);
+}
+
+.btn-option {
+  transition: all 0.2s ease-out;
+}
+.btn-option:hover:not(:disabled) {
+  border-color: var(--neon-cyan);
+  background-color: rgba(34, 211, 238, 0.1);
+  transform: translateX(4px);
+}
+
+.btn-correct {
+  background-color: rgba(16, 185, 129, 0.15) !important;
+  border-color: var(--neon-green) !important;
+  box-shadow: 0 0 15px rgba(16, 185, 129, 0.4) !important;
+  color: #34d399 !important;
+}
+
+.btn-wrong {
+  background-color: rgba(244, 63, 94, 0.15) !important;
+  border-color: var(--neon-red) !important;
+  box-shadow: 0 0 15px rgba(244, 63, 94, 0.4) !important;
+  color: #fb7185 !important;
+}

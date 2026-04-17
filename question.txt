@@ -1,0 +1,1038 @@
+Week: 0
+Question: "Plant community, predominantly comprised of trees and other woody vegetation, usually with a closed canopy" is
+A) silvicultural definition of forests
+B) FAO definition of forests
+C) legal definition of forests
+D) ecological definition of forests
+Answer: D
+
+Week: 0
+Question: The value derived from the knowledge of use of resources by others in the current generation is called
+A) altruistic value
+B) bequest value
+C) existence value
+D) option value
+Answer: A
+
+Week: 0
+Question: The climax near Tindni village is being controlled by disturbance by cattle. This is an example of
+A) climatic climax
+B) edaphic climax
+C) disclimax
+D) catastrophic climax
+Answer: C
+
+Week: 0
+Question: Which of these depicts correctly the lithosere primary succession?
+A) Rock → Crustose lichen → Foliose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax
+B) Rock → Foliose lichen → Crustose lichen → Moss → Herbaceous stage → Shrub → Woodland → Climax
+C) Moss → Crustose lichen → Foliose lichen → Rock → Herbaceous stage → Shrub → Woodland → Climax
+D) Rock → Crustose lichen → Foliose lichen → Shrub → Herbaceous stage → Moss → Woodland → Climax
+Answer: A
+
+Week: 0
+Question: Which of these has the highest organic matter content?
+A) peaty soil
+B) alluvial soil
+C) saline soil
+D) red and yellow soil
+Answer: A
+
+Week: 0
+Question: The term laterite soil is derived from Latin later which means
+A) red
+B) brick
+C) fertile
+D) infertile
+Answer: B
+
+Week: 0
+Question: Vertical arrangement of soil horizons is called
+A) soil texture
+B) soil structure
+C) soil profile
+D) soil science
+Answer: C
+
+Week: 0
+Question: Hydrolysis is an example of
+A) chemical weathering
+B) physical weathering
+C) biological weathering
+D) none of the above
+Answer: A
+
+Week: 0
+Question: For a tree with dbh = 45.6 cm, height = 27 m and total stem volume of 1.78 cum, the artificial form factor for the tree is:
+A) 0.1
+B) 0.2
+C) 0.3
+D) 0.4
+Answer: D
+
+Week: 0
+Question: Choose the correct statement:
+A) For a non-circular cross-section, girth tape over-estimates the sectional area.
+B) For a non-circular cross-section, girth tape under-estimates the sectional area.
+C) For a non-circular cross-section, girth tape correctly estimates the sectional area.
+D) None of these is a correct statement.
+Answer: A
+
+Week: 1
+Question: Which of these is not a consumptive value?
+A) timber
+B) firewood
+C) non-timber forest products
+D) education
+Answer: D
+
+Week: 1
+Question: Tropical moist forests do not include
+A) broadleaved forests
+B) wet evergreen forests
+C) semi-evergreen forests
+D) moist deciduous forests
+Answer: A
+
+Week: 1
+Question: Montane sub-tropical forests do not include
+A) broadleaved forests
+B) pine forests
+C) semi-evergreen forests
+D) dry evergreen forests
+Answer: C
+
+Week: 1
+Question: According to the Supreme Court, the word forest must be understood according to its
+A) biological meaning
+B) ecological meaning
+C) silvicultural meaning
+D) dictionary meaning
+Answer: D
+
+Week: 1
+Question: Which of these is not a use value?
+A) direct value
+B) indirect value
+C) option value
+D) existence value
+Answer: D
+
+Week: 1
+Question: The value of leaving use and non-use values for offspring’s or future generations is called
+A) altruistic value
+B) bequest value
+C) existence value
+D) option value
+Answer: B
+
+Week: 1
+Question: Which of these is not a non-use value?
+A) direct value
+B) existence value
+C) altruistic value
+D) bequest value
+Answer: A
+
+Week: 1
+Question: According to the Supreme Court, the term forest land includes
+A) some area recorded as forest in the Government record according to ownership
+B) any area recorded as forest in the Government record according to ownership
+C) some area recorded as forest in the Government record irrespective of ownership
+D) any area recorded as forest in the Government record irrespective of ownership
+Answer: D
+
+Week: 1
+Question: Which of these is not a forest type found in India?
+A) Mediterranean dry
+B) Tropical dry
+C) Montane temperate
+D) Alpine
+Answer: A
+
+Week: 1
+Question: The term 'forest' originates from
+A) Latin foris meaning outside
+B) Greek foris meaning outside
+C) Latin foris meaning trees
+D) Greek foris meaning trees
+Answer: A
+
+Week: 2
+Question: Which of these is abiotic factor?
+A) vines
+B) trees
+C) reptiles
+D) water
+Answer: D
+
+Week: 2
+Question: A climax caused by wildfires is an example of
+A) climatic climax
+B) edaphic climax
+C) disclimax
+D) catastrophic climax
+Answer: D
+
+Week: 2
+Question: The study of life history / general features of forest crops with respect to environmental factors is called
+A) foresticulture
+B) monoculture
+C) silviculture
+D) silvics
+Answer: D
+
+Week: 2
+Question: The art and science of cultivating forest crops is called
+A) foresticulture
+B) monoculture
+C) silviculture
+D) silvics
+Answer: C
+
+Week: 2
+Question: Which of these is not a characteristic of pioneer species
+A) ability to grow on bare rocks
+B) ability to tolerate extreme temperatures
+C) large size
+D) short life span
+Answer: C
+
+Week: 2
+Question: At compensation point,
+A) photosynthesis = respiration
+B) photosynthesis > respiration
+C) photosynthesis < respiration
+D) none of these
+Answer: A
+
+Week: 2
+Question: Net primary productivity is given by
+A) APAR + LUE
+B) APAR X LUE
+C) APAR - LUE
+D) APAR ÷ LUE
+Answer: B
+
+Week: 2
+Question: Lithosere is an example of
+A) hydrosere
+B) xerosere
+C) psammosere
+D) halosere
+Answer: B
+
+Week: 2
+Question: Practical application of scientific, technical and economic principles of forestry comes under which branch of forestry?
+A) forest management
+B) forest economics
+C) forest mensuration
+D) forest protection
+Answer: A
+
+Week: 2
+Question: In the context of plant nutrition, boron is
+A) macronutrient
+B) micronutrient
+C) primary nutrient
+D) secondary nutrient
+Answer: B
+
+Week: 3
+Question: Thermal stresses lead to
+A) chemical weathering
+B) physical weathering
+C) biological weathering
+D) none of the above
+Answer: B
+
+Week: 3
+Question: Cryofracturing is an example of
+A) chemical weathering
+B) physical weathering
+C) biological weathering
+D) none of the above
+Answer: B
+
+Week: 3
+Question: Carbonation is an example of
+A) chemical weathering
+B) physical weathering
+C) biological weathering
+D) none of the above
+Answer: A
+
+Week: 3
+Question: Khadar is a type of
+A) black cotton soil
+B) alluvial soil
+C) saline soil
+D) red and yellow soil
+Answer: B
+
+Week: 3
+Question: Self ploughing character is seen in
+A) black cotton soil
+B) alluvial soil
+C) saline soil
+D) red and yellow soil
+Answer: A
+
+Week: 3
+Question: In soil profile, C refers to
+A) organic surface layer
+B) topsoil layer
+C) subsoil layer
+D) substratum layer
+Answer: D
+
+Week: 3
+Question: Soil formation is dependent upon
+A) vegetation
+B) time
+C) climate
+D) all of the above
+Answer: D
+
+Week: 3
+Question: Regur is a term for
+A) black cotton soil
+B) alluvial soil
+C) saline soil
+D) red and yellow soil
+Answer: A
+
+Week: 3
+Question: Mechanical action of ocean waves is an example of
+A) chemical weathering
+B) physical weathering
+C) biological weathering
+D) none of the above
+Answer: B
+
+Week: 3
+Question: Bangar is a type of
+A) black cotton soil
+B) alluvial soil
+C) saline soil
+D) red and yellow soil
+Answer: B
+
+Week: 4
+Question: For false form factor, the reference for the base of the cylinder is
+A) base of the tree
+B) breast height
+C) 10% of tree height
+D) 20% of tree height
+Answer: B
+
+Week: 4
+Question: In India, the breast height is considered to be
+A) 1.37 m
+B) 1.47 m
+C) 1.57 m
+D) 2.47 m
+Answer: A
+
+Week: 4
+Question: 3 trees are located in a sample plot of 15 m × 15 m. Their dbh are as under: dbh = 25 cm, 30 cm, 35 cm. Find the stand basal area in sq m per Ha.
+A) 9.6
+B) 14.6
+C) 21.6
+D) 27.6
+Answer: A
+
+Week: 4
+Question: Measurement of height based on similar triangles comes under:
+A) similar measurement
+B) dissimilar measurement
+C) direct measurement
+D) indirect measurement
+Answer: D
+
+Week: 4
+Question: In a triangle, the angle between base and hypotenuse, θ = 60° and the hypotenuse c = 2 cm. Find the length of the base b
+A) 0.33
+B) 0.5
+C) 0.75d
+D) 1
+Answer: D
+
+Week: 4
+Question: A tree has dbh of 25 cm. Find its basal area in sq m.
+A) .049
+B) .096
+C) .149
+D) .195
+Answer: A
+
+Week: 4
+Question: For normal form factor, the reference for the base of the cylinder is
+A) base of the tree
+B) breast height
+C) 10% of tree height
+D) 20% of tree height
+Answer: C
+
+Week: 4
+Question: A tree has dbh of 35 cm. Find its basal area in sq m.
+A) .049
+B) .096
+C) .149
+D) .195
+Answer: B
+
+Week: 4
+Question: Diameter over bark (dob), diameter under bark (dub) and bark thickness (tb) are related as:
+A) dob = dub + tb
+B) dob = dub - tb
+C) dob = dub + 2 × tb
+D) dob = dub - 2 × tb
+Answer: C
+
+Week: 4
+Question: Consider a stand of eucalyptus trees that are on average 30 cm in diameter and spaced on a regular 3 m grid. Find the spacing factor.
+A) 5
+B) 10
+C) 15
+D) data insufficient
+Answer: B
+
+Week: 5
+Question: The time of flight for LiDAR is 0.00001 sec. Find the distance of the object from the instrument
+A) 500 m
+B) 1000 m
+C) 1500 m
+D) 2000 m
+Answer: C
+
+Week: 5
+Question: A sampling procedure such that each possible combination of sampling units out of the population has the same chance of being selected is referred to as
+A) Simple random sampling
+B) Systematic sampling
+C) Stratified sampling 
+D) Multistage sampling
+Answer: A
+
+Week: 5
+Question: “This sampling employs a simple rule of selecting every kth unit starting with a number chosen at random from 1 to k as the random start.” We're talking about
+A) Simple random sampling
+B) Systematic sampling
+C) Stratified sampling
+D) Multistage sampling
+Answer: B
+
+Week: 5
+Question: A list of sampling units is called a
+A) frame
+B) window
+C) sample
+D) population
+Answer: A
+
+Week: 5
+Question: ___ is how close the measured values are to the correct value
+A) Accuracy
+B) Precision
+C) Bias
+D) Variance
+Answer: A
+
+Week: 5
+Question: Bathymetric LiDAR uses
+A) far infrared light
+B) near infrared light
+C) orange light
+D) green light
+Answer: D
+
+Week: 5
+Question: ___ is how close the measured values are to each other
+A) Accuracy
+B) Precision
+C) Bias
+D) Variance
+Answer: B
+
+Week: 5
+Question: IMU stands for
+A) Imperial metering unit
+B) Inertial metering unit
+C) Imperial measurement unit
+D) Inertial measurement unit
+Answer: D
+
+Week: 5
+Question: The frequency of flyovers is an indicator of
+A) spatial resolution
+B) temporal resolution
+C) spectral resolution
+D) radiometric resolution
+Answer: B
+
+Week: 5
+Question: Which of these is correct?
+A) Plane surveying takes into account the true shape of the Earth and is used for smaller areas (< 250 sq km)
+B) Plane surveying takes into account the true shape of the Earth and is used for larger areas (> 250 sq km)
+C) Geodetic surveying takes into account the true shape of the Earth and is used for smaller areas (< 250 sq km)
+D) Geodetic surveying takes into account the true shape of the Earth and is used for larger areas (> 250 sq km)
+Answer: D
+
+Week: 6
+Question: The acronym HIPPO does not include
+A) habitat loss
+B) habitat enhancement
+C) over-harvesting
+D) human over-population
+Answer: B
+
+Week: 6
+Question: A scientist uses a trap to capture a monkey. In the context of Wildlife Protection Act 1972.
+A) the trap is a weapon and capturing is hunting
+B) the trap is not a weapon and capturing is hunting
+C) the trap is a weapon and capturing is not hunting
+D) the trap is not a weapon and capturing is not hunting
+Answer: A
+
+Week: 6
+Question: Which of these is a deterministic factor?
+A) environmental variation
+B) forest fire
+C) death rate
+D) diseases
+Answer: C
+
+Week: 6
+Question: The acronym HIPPO does not include
+A) habitat loss
+B) invasive species
+C) pollination
+D) pollution
+Answer: C
+
+Week: 6
+Question: In the formula I = PXAXT, T refers to
+A) transference
+B) time
+C) technology
+D) none of the above
+Answer: C
+
+Week: 6
+Question: Invasive climbers increase the probability of which of these fire types?
+A) ground fire
+B) surface fire
+C) ladder fire
+D) firestorm
+Answer: C
+
+Week: 6
+Question: Which of these is a stochastic factor?
+A) birth rate
+B) death rate
+C) population structure
+D) forest fire
+Answer: D
+
+Week: 6
+Question: Which of these forms the fire triangle?
+A) fire, air, heat
+B) fire, oxygen, wood
+C) fuel, air, wood
+D) fuel, oxygen, heat
+Answer: D
+
+Week: 6
+Question: In the formula I = PXAXT, P refers to
+A) professional pressure
+B) pollution pressure
+C) population pressure
+D) none of the above
+Answer: C
+
+Week: 6
+Question: A veterinarian uses an immobilising gun to capture a deer. In the context of Wildlife Protection Act 1972.
+A) the immobilising gun is a weapon and capturing is hunting
+B) the immobilising gun is not a weapon and capturing is hunting
+C) the immobilising gun is a weapon and capturing is not hunting
+D) the immobilising gun is not a weapon and capturing is not hunting
+Answer: A
+
+Week: 7
+Question: The movement of seeds away from their place of seed production into a new area is called
+A) translocation
+B) migration
+C) dispersal
+D) drifting
+Answer: C
+
+Week: 7
+Question: Which of these is not advantage of clear felling system
+A) Simple system, easy and efficient operations
+B) Allows for establishment of a more uniform crop
+C) Increases soil erosion and landslides in hilly areas
+D) Mimics natural processes of fire and large-scale insect attacks
+Answer: C
+
+Week: 7
+Question: Ring weeding is primarily a feature of
+A) natural regeneration
+B) assisted natural regeneration
+C) artificial regeneration by direct sowing
+D) artificial regeneration by planting seedlings
+Answer: B
+
+Week: 7
+Question: Average age at which a tree is considered mature for felling is called as
+A) crop age
+B) felling age
+C) rotation age
+D) maturity age
+Answer: C
+
+Week: 7
+Question: Which of these is not a feature of natural regeneration
+A) low cost
+B) less requirement of heavy machinery and labour
+C) preservation of genetic variability
+D) good control over genetic improvement
+Answer: D
+
+Week: 7
+Question: Tending is done during
+A) early stage of life
+B) middle stage of life
+C) late stage of life
+D) any stage of life
+Answer: D
+
+Week: 7
+Question: Which of these is the correct sequence of a silvicultural system?
+A) Stand tending -> Regeneration -> Harvesting
+B) Harvesting -> Stand tending -> Regeneration
+C) Harvesting -> Regeneration -> Stand tending
+D) Regeneration -> Harvesting -> Stand tending
+Answer: C
+
+Week: 7
+Question: Taungya regeneration is
+A) natural regeneration
+B) artificial regeneration with villagers
+C) artificial regeneration with nomadic tribes
+D) artificial regeneration with hunters and gatherers
+Answer: B
+
+Week: 7
+Question: A site was clear-cut. Which of these methods of regeneration cannot be used in a short time-frame?
+A) natural regeneration
+B) artificial regeneration by direct sowing
+C) artificial regeneration by planting seedlings
+D) artificial regeneration by transplanting trees
+Answer: A
+
+Week: 7
+Question: Which of these is not a feature of natural regeneration
+A) seed consumption by insects and seed feeders
+B) little control over spacing and stand density
+C) long time needed to regenerate forest
+D) high requirement of heavy machinery and labour
+Answer: D
+
+Week: 8
+Question: In group shelterwood system, the regeneration area is increased
+A) centrifugally around gaps
+B) centripetally around gaps
+C) parallel to gaps
+D) perpendicular to gaps
+Answer: A
+
+Week: 8
+Question: Which of these is the correct sequence for shelterwood system?
+A) Preparatory felling ->Secondary felling -> Seedling felling -> Final felling
+B) Preparatory felling -> Seedling felling -> Secondary felling -> Final felling
+C) Preparatory felling ->Secondary felling -> Seeding felling -> Final felling
+D) Preparatory felling -> Seeding felling -> Secondary felling -> Final felling
+Answer: D
+
+Week: 8
+Question: Shelterwood system results in
+A) even aged stand with natural aesthetics
+B) even aged stand with artificial aesthetics
+C) uneven aged stand with natural aesthetics
+D) uneven aged stand with artificial aesthetics
+Answer: A
+
+Week: 8
+Question: Catchment areas are best suited for
+A) clear felling system
+B) selection system
+C) uniform shelterwood system
+D) group shelterwood system
+Answer: B
+
+Week: 8
+Question: Trees not putting increment are removed during
+A) preparatory felling
+B) seeding felling
+C) secondary felling
+D) final felling
+Answer: A
+
+Week: 8
+Question: Felling made with the object of opening the canopy to remove shelter and allow more light for the regenerated crop is
+A) preparatory felling
+B) seeding felling
+C) secondary felling
+D) final felling
+Answer: C
+
+Week: 8
+Question: For a crop with rotation age of 120 years, PB-III would have crop age
+A) 0-30 years
+B) 30-60 years
+C) 60-90 years
+D) 90-120 years
+Answer: B
+
+Week: 8
+Question: Clear felling system is not used for
+A) light demanding species
+B) shade bearer species
+C) plain areas
+D) plateau areas
+Answer: B
+
+Week: 8
+Question: Close to nature forestry is a feature of
+A) clear felling system
+B) selection system
+C) uniform shelterwood system
+D) group shelterwood system
+Answer: B
+
+Week: 8
+Question: Inverse-J shaped number-diameter curves are seen in
+A) clear felling system
+B) selection system
+C) uniform shelterwood system
+D) group shelterwood system
+Answer: B
+
+Week: 9
+Question: Careful selection of trees for harvesting based on a forest management prescription is known as
+A) surveying
+B) cruising
+C) marking
+D) logging
+Answer: C
+
+Week: 9
+Question: Moving of logs from forest to landing area is known as
+A) marking
+B) bucking
+C) skidding
+D) delimbing
+Answer: C
+
+Week: 9
+Question: Net growth in initial volume is given by
+A) V2-V1
+B) V2-V1+H-I
+C) V2-V1+H-I+M
+D) V2-V1+H-I-M
+Answer: B
+
+Week: 9
+Question: Surveying timberlands to locate and estimate the volumes and grades of standing timber meeting requirements is known as
+A) surveying
+B) cruising
+C) marking
+D) logging
+Answer: B
+
+Week: 9
+Question: Which of these gives the greatest accuracy in constructing face cuts
+A) conventional face
+B) humboldt face
+C) open face
+D) all of these
+Answer: A
+
+Week: 9
+Question: Trees to be retained are shown in ___ marking colour
+A) yellow
+B) blue
+C) red
+D) white
+Answer: B
+
+Week: 9
+Question: Cutting of timber into logs is known as
+A) marking
+B) bucking
+C) skidding
+D) delimbing
+Answer: B
+
+Week: 9
+Question: Research plots are shown in ___ marking colour
+A) yellow
+B) blue
+C) red
+D) white
+Answer: D
+
+Week: 9
+Question: Trees on boundary are shown in ___ marking colour
+A) yellow
+B) blue
+C) red
+D) white
+Answer: C
+
+Week: 9
+Question: Which of these gives the greatest saving of lumber
+A) conventional face
+B) humboldt face
+C) open face
+D) all of these
+Answer: B
+
+Week: 10
+Question: Which of these is a good storage condition
+A) high moisture, high temperature
+B) high moisture, low temperature
+C) low moisture, high temperature
+D) low moisture, low temperature
+Answer: D
+
+Week: 10
+Question: Agave is used for
+A) barbed wire fencing
+B) live fencing
+C) chain link fencing
+D) stone wall fencing
+Answer: B
+
+Week: 10
+Question: Which of these conserves moisture
+A) sunken bed
+B) raised bed
+C) flat bed
+D) all of these
+Answer: A
+
+Week: 10
+Question: Shell cracking of seeds is used for which species
+A) amla
+B) mango
+C) ber
+D) teak
+Answer: C
+
+Week: 10
+Question: Which of these is not a laboratory method to determine best days for seed collection?
+A) maximum dry weight
+B) colour of fruits
+C) moisture content of fruits
+D) chemical analysis of fat and nitrogen content
+Answer: B
+
+Week: 10
+Question: Which of these characterises a refractory site
+A) soil depth < 10 cm
+B) soil depth 10-30 cm
+C) soil depth > 30 cm
+D) none of these
+Answer: A
+
+Week: 10
+Question: Which of these prevents water logging
+A) sunken bed
+B) raised bed
+C) flat bed
+D) all of these
+Answer: B
+
+Week: 10
+Question: Wet and dry treatment of seeds is used for which species
+A) amla
+B) mango
+C) ber
+D) teak
+Answer: D
+
+Week: 10
+Question: Choice of spacing is dependent upon
+A) objective of plantation
+B) site-species matching
+C) growth rate
+D) all of these
+Answer: D
+
+Week: 10
+Question: Number of seeds in sample that germinate upto the peak germination period expressed as % is a definition of
+A) germination number
+B) germination percentage
+C) germination energy
+D) germination power
+Answer: C
+
+Week: 11
+Question: Zoo is an example of
+A) in-situ conservation
+B) ex-situ conservation
+C) in-situ preservation
+D) ex-situ preservation
+Answer: B
+
+Week: 11
+Question: Captive breeding is an example of
+A) in-situ conservation
+B) ex-situ conservation
+C) in-situ preservation
+D) ex-situ preservation
+Answer: B
+
+Week: 11
+Question: The elephant has a home range of several square kilometres, regulates the ecosystem by its habit of destructive feeding, and people can relate to this animal which is important for conservation. Given this background, the elephant can be called as
+A) umbrella species
+B) keystone species
+C) flagship species
+D) all of the above
+Answer: D
+
+Week: 11
+Question: Sustainable harvest of resources falls under the category of:
+A) conservation
+B) preservation
+C) environmentalism
+D) none of the above
+Answer: A
+
+Week: 11
+Question: Which of these is not a forest classification as per the 1894 Forest Policy:
+A) protection forest
+B) production forest
+C) minor forest
+D) major forest
+Answer: D
+
+Week: 11
+Question: The tiger has a home range of several square kilometres, regulates the ecosystem through controlling herbivore populations and trophic cascades, and people come to tiger reserves to watch tigers. Thus, the tiger can be called as
+A) umbrella species
+B) keystone species
+C) flagship species
+D) all of the above
+Answer: D
+
+Week: 11
+Question: Planting along canal banks is a part of
+A) farm forestry
+B) community forestry
+C) extension forestry
+D) agroforestry
+Answer: C
+
+Week: 11
+Question: In 1931, Van Panchayats were constituted in areas that are now in
+A) Tamil Nadu
+B) Madhya Pradesh
+C) West Bengal
+D) Uttarakhand
+Answer: D
+
+Week: 11
+Question: People come to Sessa orchid sanctuary in Arunachal Pradesh to witness orchids, which in this context would be classified as
+A) umbrella species
+B) keystone species
+C) flagship species
+D) extinct species
+Answer: C
+
+Week: 11
+Question: The fig tree bears fruits in times when animals do not have much access to food. In this context, it would be a good example of
+A) least concern species
+B) keystone species
+C) flagship species
+D) extinct species
+Answer: B
+
+Week: 12
+Question: The climax near Tindni village is being controlled by disturbance by cattle. This is an example of
+A) climatic climax
+B) edaphic climax
+C) disclimax
+D) catastrophic climax
+Answer: C
+
+Week: 12
+Question: “Science of relationships between organisms and their environments” is the definition of:
+A) conservation
+B) preservation
+C) environmentalism
+D) ecology
+Answer: D
+
+Week: 12
+Question: “allowing some places and some creatures to exist without significant human interference” is a definition of
+A) conservation
+B) preservation
+C) environmentalism
+D) all of these
+Answer: B
+
+Week: 12
+Question: For absolute form factor, the reference for the base of the cylinder is
+A) base of the tree
+B) breast height
+C) 10% of tree height
+D) 20% of tree height
+Answer: A
+
+Week: 12
+Question: Which of these has the highest organic matter content?
+A) peaty soil
+B) alluvial soil
+C) saline soil
+D) red and yellow soil
+Answer: A
+
+Week: 12
+Question: For a tree with dbh = 45.6 cm, height = 27 m and total stem volume of 1.78 cum, the artificial form factor for the tree is:
+A) 0.1
+B) 0.2
+C) 0.3
+D) 0.4
+Answer: D
+
+Week: 12
+Question: “Plant community, predominantly comprised of trees and other woody vegetation, usually with a closed canopy" is
+A) silvicultural definition of forests
+B) FAO definition of forests
+C) legal definition of forests
+D) ecological definition of forests
+Answer: D
+
+Week: 12
+Question: The term laterite soil is derived from Latin later which means
+A) red
+B) brick
+C) fertile
+D) infertile
+Answer: B
+
+Week: 12
+Question: Choose the correct statement:
+A) For a non-circular cross-section, girth tape over-estimates the sectional area.
+B) For a non-circular cross-section, girth tape under-estimates the sectional area.
+C) For a non-circular cross-section, girth tape correctly estimates the sectional area.
+D) None of these is a correct statement.
+Answer: A
+
+Week: 12
+Question: Vertical arrangement of soil horizons is called
+A) soil texture
+B) soil structure
+C) soil profile
+D) soil science
