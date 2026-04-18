@@ -28,7 +28,31 @@ function App() {
       filtered = [...allQuestions];
     }
 
-    // Fisher-Yates Shuffle for all modes
+    // Deep copy, clean and shuffle options for each question
+    filtered = filtered.map(q => {
+      const originalCorrectString = q.options[q.correctAnswerIndex];
+      // Regex to remove 'A) ', 'B.', 'c)', etc. from start of string
+      const cleanRegex = /^[A-Za-z][\.\)]\s*/;
+      
+      const cleanedCorrectString = originalCorrectString.replace(cleanRegex, '');
+      let newOptions = q.options.map(opt => opt.replace(cleanRegex, ''));
+      
+      // Fisher-Yates Shuffle for options
+      for (let i = newOptions.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [newOptions[i], newOptions[j]] = [newOptions[j], newOptions[i]];
+      }
+      
+      const newCorrectIndex = newOptions.indexOf(cleanedCorrectString);
+      
+      return {
+        ...q,
+        options: newOptions,
+        correctAnswerIndex: newCorrectIndex
+      };
+    });
+
+    // Fisher-Yates Shuffle for all modes (questions)
     for (let i = filtered.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [filtered[i], filtered[j]] = [filtered[j], filtered[i]];
