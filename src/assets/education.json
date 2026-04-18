@@ -1,0 +1,1427 @@
+[
+    {
+        "week": 0,
+        "questionText": "The full form of SDGs is ___.",
+        "options": [
+            "A. Sustainable Development Guide",
+            "B. Sensitive Development Guide",
+            "C. Sustainable Driving Goals",
+            "D. Sustainable Development Goals"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 0,
+        "questionText": "The SDGs have been adopted by ___ member states.",
+        "options": [
+            "A. United Kingdom",
+            "B. South African",
+            "C. Asian",
+            "D. United Nations",
+            "E. Parliamentary"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 0,
+        "questionText": "SDGs consist of ___ number of goals.",
+        "options": [
+            "A.\t30",
+            "B.\t15",
+            "C.\t13",
+            "D.\t17",
+            "E.\t21"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 0,
+        "questionText": "SDGs are at the heart of the ___ agenda for sustainable development.",
+        "options": [
+            "A.\t2020",
+            "B.\t2035",
+            "C.\t2030",
+            "D.\t2015",
+            "E.\t2024"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 0,
+        "questionText": "SDGs are also known as ___.",
+        "options": [
+            "A.\tGenerational goals",
+            "B.\tSensible goals",
+            "C.\tGlobal goals",
+            "D.\tHolistic goals",
+            "E.\tNone of the above"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 0,
+        "questionText": "All the SDGs are ___",
+        "options": [
+            "A.\tUnrelated",
+            "B.\tFalse",
+            "C.\tOnly for one country",
+            "D.\tInterconnected",
+            "E.\tNone of the above"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 0,
+        "questionText": "MDGs stand for ___",
+        "options": [
+            "A.\tMotivational Development Goals",
+            "B.\tMacro Development Goals",
+            "C.\tMillennium Development Goals",
+            "D.\tMicro Development Goals"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 0,
+        "questionText": "The Agenda __ was adopted at the Earth Summit",
+        "options": [
+            "A.\t12",
+            "B.\t30",
+            "C.\t35",
+            "D.\t40",
+            "E.\t21"
+        ],
+        "correctAnswerIndex": 4
+    },
+    {
+        "week": 0,
+        "questionText": "There were __ number of MDGs given, which were later replaced by the SDGs",
+        "options": [
+            "A.\t17",
+            "B.\t8",
+            "C.\t18",
+            "D.\t10"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 0,
+        "questionText": "The ‘D’ in DSDG stands for ___.",
+        "options": [
+            "A.\tDepartment",
+            "B.\tDivision",
+            "C.\tDistance",
+            "D.\tDiversity",
+            "E.\tNone of the above"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 1,
+        "questionText": "The Global Goals were adopted by all \nUnited Nations member states in ___ as a universal call to action to end\n poverty, protect the planet and ensure that all people enjoy peace and \nprosperity by ___.",
+        "options": [
+            "A. 2025, 2080",
+            "B. 2020, 2060",
+            "C. 2012, 2050",
+            "D. 2015, 2030"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 1,
+        "questionText": "Which of the following is true?",
+        "options": [
+            "A. The SDGs are a bold commitment to solely increase the GDP of India",
+            "B. Dealing with climate change has no impact on gender equality",
+            "C. Success in one SDG affects success of the others",
+            "D. Only 14 out of the 17 SDGs are interconnected"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 1,
+        "questionText": "In June 1992, at the Earth Summit in Rio de Janeiro, Brazil, more than 178 countries adopted ___.",
+        "options": [
+            "A. Agenda 21",
+            "B. Millennium Development Goals",
+            "C. Agenda 51",
+            "D. Sustainable Development Goals"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 1,
+        "questionText": "Brundtland Report was released in 1987 by the WCED. WCED stands for ___.",
+        "options": [
+            "A. World Commission on Environment Degradation",
+            "B. World Commission on Environment and Development",
+            "C. World Committee on Environmental Depletion",
+            "D. World Commission on Earth Development"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 1,
+        "questionText": "Extreme poverty means living on less than ___ a day.",
+        "options": [
+            "A. $1.25",
+            "B. $4.25",
+            "C. $10.25",
+            "D. $100.25"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 1,
+        "questionText": "____________ poverty measures reveal who is poor and how they are poor.",
+        "options": [
+            "A. Unidimensional",
+            "B. Bidirectional",
+            "C. Multidimensional",
+            "D. Multidirectional"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 1,
+        "questionText": "SDG 2 aims end all forms of ___ by 2030.",
+        "options": [
+            "A. crime",
+            "B. hunger and malnutrition",
+            "C. pollution",
+            "D. drought"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 1,
+        "questionText": "Which of the following isnotone of the indicators of the Global Hunder Index?",
+        "options": [
+            "A. prevalence of wasting and stunting in children under 5 years",
+            "B. under 5 child mortality rate",
+            "C. proportion of undernourished in the population",
+            "D. proportion of obese people in the population"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 1,
+        "questionText": "As per Ministry of Housing and Urban \nAffairs, 135 litre per capita per day (lpcd) has been suggested as the \nbenchmark for urban water supply. For rural areas, a minimum service \ndelivery of 55 lpcd has been fixed under___.",
+        "options": [
+            "A. Jal Jeevan Mission",
+            "B. Jal Shakti Mission",
+            "C. Jal Protection Mission",
+            "D. Jal Janta Mission"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 1,
+        "questionText": "Forests cover about ___ percent of the Earth’s surface",
+        "options": [
+            "A. 5",
+            "B. 85",
+            "C. 30",
+            "D. 50"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 2,
+        "questionText": "Which of the following is a characteristic of ESD as described in the framework?",
+        "options": [
+            "A.\tIt is not locally relevant",
+            "B.\tIt promotes learning only for children",
+            "C.\tIt is interdisciplinary",
+            "D.\tIt uses only two pedagogical techniques"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 2,
+        "questionText": "The Declaration on the Right to Development (1986) established that everyone is entitled to participate in and enjoy:",
+        "options": [
+            "A. only economic and social development",
+            "B. economic, political, psychological and communist development",
+            "C. economic, social, cultural and political development",
+            "D. only cultural development"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 2,
+        "questionText": "Text based methods for assessing ESD programs can be improved by using ___.",
+        "options": [
+            "A. interpretive methodologies",
+            "B. strict curriculum",
+            "C. only quantitative techniques",
+            "D. only qualitative methods"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 2,
+        "questionText": "SDGS are for the following except ___.",
+        "options": [
+            "A. people",
+            "B. practice",
+            "C. planet",
+            "D. partnership"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 2,
+        "questionText": "Policies like employment and labor rights, care and family leves, and financial regulation are often called the ___ policies.",
+        "options": [
+            "A. post-regulation",
+            "B. self-care",
+            "C. forceful",
+            "D. pre-distributive"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 2,
+        "questionText": "Which of the following is involved in \nthe development of the HRE indicator framework to measure progress on \nnational implementation of human rights education.",
+        "options": [
+            "A. Danish Institute of Human Rights",
+            "B. The Office of the High Commissioner for Human Rights",
+            "C. Both A and B",
+            "D. Neither A nor B"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 2,
+        "questionText": "___ plays a role in peace education.",
+        "options": [
+            "A. schools",
+            "B. parents",
+            "C. community",
+            "D. all the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 2,
+        "questionText": "The enterprise of education at its most profound level is ___.",
+        "options": [
+            "A. discriminatory",
+            "B. selective",
+            "C. restricted",
+            "D. transformative"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 2,
+        "questionText": "UNESCO’s World in 2030 survey revealed that respondents see ___ as one of the top global challenges",
+        "options": [
+            "A. climate change",
+            "B. hunger",
+            "C. unemployment",
+            "D. mental health"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 2,
+        "questionText": "Education for sustainable development \nand peace develops people’s skills to take actions that improve our \nquality of life__________.",
+        "options": [
+            "A. only now",
+            "B. only for the future",
+            "C. for now and for the future",
+            "D. only for the past"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 3,
+        "questionText": "Global citizenship is a belief that individuals are members of ___ networks.",
+        "options": [
+            "A. multiple",
+            "B. diverse",
+            "C. local and non-local",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 3,
+        "questionText": "A global citizen ___.",
+        "options": [
+            "A. is not aware of the wider world",
+            "B. is confused about their place in the world",
+            "C. takes an active role in their community",
+            "D. do not care much about the planet"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 3,
+        "questionText": "Global citizenship education is based on ___ domains of learning.",
+        "options": [
+            "A. three",
+            "B. two",
+            "C. four",
+            "D. seven"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 3,
+        "questionText": "___ is UNESCO’s first Categogory 1 education-releated institute in the Asia-Pacific region.",
+        "options": [
+            "A. MGEIN",
+            "B. MGIER",
+            "C. MGIEP",
+            "D. MGOEL"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 3,
+        "questionText": "SDG target 4.7 rearticulates a  ____ agenda for education.",
+        "options": [
+            "A. regional",
+            "B. behavioral",
+            "C. political",
+            "D. humanistic"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 3,
+        "questionText": "SEL stands for________.",
+        "options": [
+            "A. Sustainable education and learning",
+            "B. Social and environmental learning",
+            "C. Social and emotional learning",
+            "D. Sustainable and economic learning"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 3,
+        "questionText": "Which of the following is a role taken by a teacher in education for sustainable development?",
+        "options": [
+            "A. facilitator",
+            "B. guide",
+            "C. role model",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 3,
+        "questionText": "Target ___ calls for strengthening efforts to protect and safeguard the world’s cultural and natural heritage.",
+        "options": [
+            "A. 9.5",
+            "B. 1.5",
+            "C. 2.3",
+            "D. 11.4"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 3,
+        "questionText": "The UNESCO International Centre for Technical and Vocational Education and Training enables ___ in member states.",
+        "options": [
+            "A. green TVET",
+            "B. blue TVET",
+            "C. orange TVET",
+            "D. white TVET"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 3,
+        "questionText": "Which of the following statements isnottrue?",
+        "options": [
+            "A. green jobs contribute to preserving environmental quality",
+            "B. green jobs ensure workers’ rights",
+            "C. green jobs are only found in the agriculture sector",
+            "D. green jobs must be accessible to all"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 4,
+        "questionText": "GESO stands for ___.",
+        "options": [
+            "A. Green Education for Sustainable Occupation",
+            "B. Green Enhanced Sustainable Occupation",
+            "C. Green Enhanced Skills Occupation",
+            "D. None of the above"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 4,
+        "questionText": "The classification of occupations into GIDO, GESO and GNEO is given by US National Center for ___ .",
+        "options": [
+            "A. G*NET",
+            "B. A*NET",
+            "C. I*NET",
+            "D. O*NET"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 4,
+        "questionText": "The International Framework for Greening TVET consists of the following tiers, except ___.",
+        "options": [
+            "A. Breaking TVET institutions",
+            "B. Transforming TVET institutions",
+            "C. Formulating National Policies",
+            "D. Forming International Alliance"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 4,
+        "questionText": "Energy, water and waste management comes under the ___ dimension of Greening TVET.",
+        "options": [
+            "A. Green research",
+            "B. Green culture",
+            "C. Green teaching",
+            "D. Green campus"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 4,
+        "questionText": "Industry-institute interaction is an indicator of ___.",
+        "options": [
+            "A. green house",
+            "B. green teaching",
+            "C. green campus",
+            "D. green curriculum"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 4,
+        "questionText": "Sustainable entrepreneurship includes ___.",
+        "options": [
+            "A. social entrepreneurship",
+            "B. eco-preneurship",
+            "C. intra-preneurship",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 4,
+        "questionText": "ESD requires ___ learning methods.",
+        "options": [
+            "A. participatory",
+            "B. passive",
+            "C. rigid",
+            "D. static"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 4,
+        "questionText": "Which of the following is a transversal competency?",
+        "options": [
+            "A. creativity",
+            "B. empathy",
+            "C. systems thinking",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 4,
+        "questionText": "___________ is the ability to create good relationships and adapt to different social situations.",
+        "options": [
+            "A. emotional fitness",
+            "B. mental health",
+            "C. social health",
+            "D. physical health"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 4,
+        "questionText": "Sustainable health is ___.",
+        "options": [
+            "A. a curative approach",
+            "B. only about the body",
+            "C. a balance of mind, body and spirit",
+            "D. only about mental health"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 5,
+        "questionText": "Siddha comes under the ___.",
+        "options": [
+            "A. public health sector",
+            "B. voluntary health agencies",
+            "C. indigenous system of medicine",
+            "D. private health sector"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 5,
+        "questionText": "Which of the following is not a problem of healthcare infrastructure in India?",
+        "options": [
+            "A. shortage of staff",
+            "B. skewed favor to urban areas",
+            "C. no proper regulatory mechanism",
+            "D. standard procedures in all regions"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 5,
+        "questionText": "Which of the following is a health system building block as suggested by WHO?",
+        "options": [
+            "A. Economic growth",
+            "B. Access to public transport",
+            "C. Politics",
+            "D. Service delivery"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 5,
+        "questionText": "An ecologically sustainable approach broadens the definition of ___.",
+        "options": [
+            "A. objective",
+            "B. outcome",
+            "C. cost",
+            "D. value"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 5,
+        "questionText": "A ______________ is an environment in which data of medical interest can be stored and made easily available.",
+        "options": [
+            "A. health repository",
+            "B. health bank",
+            "C. health bag",
+            "D. health grid"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 5,
+        "questionText": "The POSHAN Abhiyan in India aims to improve nutritional outcomes for _____________.",
+        "options": [
+            "A. children",
+            "B. lactating mothers",
+            "C. pregnant women",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 5,
+        "questionText": "Sus-QI stands for ____________.",
+        "options": [
+            "A. Sustainable quality improvement",
+            "B. Sustainable quality improvisation",
+            "C. Sustainable quantity improvement",
+            "D. Sustainable quantity improvisation"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 5,
+        "questionText": "Which of the following is not a stage of Sus-QI?",
+        "options": [
+            "A. set goals",
+            "B. measure impacts",
+            "C. design the improvement effort",
+            "D. ignore the system"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 5,
+        "questionText": "Food insecurity is measured on the ___.",
+        "options": [
+            "A. FIES",
+            "B. FAIS",
+            "C. FIET",
+            "D. FAIR"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 5,
+        "questionText": "The UN lists ___ levels of food security for any given country.",
+        "options": [
+            "A. 5",
+            "B. 4",
+            "C. 3",
+            "D. 2"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 6,
+        "questionText": "Poor infrastructure can cause hunger in a country.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 6,
+        "questionText": "In high income countries, hunger is mainly caused due to poverty that results from ___.",
+        "options": [
+            "A. low GDP of the country",
+            "B. lack of access to food",
+            "C. poor public transport infrastructure",
+            "D. lack of jobs"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 6,
+        "questionText": "Which of the following is true about hunger?",
+        "options": [
+            "A. It is a cause of war",
+            "B. It is an effect of war",
+            "C. It is both a cause and effect of war",
+            "D. It is neither a cause nor an effect of war"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 6,
+        "questionText": "___ are most vulnerable to the harmful effects of hidden hunger.",
+        "options": [
+            "A. adults",
+            "B. infants",
+            "C. adolescents",
+            "D. elderly"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 6,
+        "questionText": "Desertification is typically a result of ___.",
+        "options": [
+            "A. drought",
+            "B. deforestation",
+            "C. inappropriate agriculture",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 6,
+        "questionText": "Which of the following is a key initiative in India for the problem of hunger?",
+        "options": [
+            "A. One Nation, One Plate",
+            "B. One Nation, One Hunger",
+            "C. One Nation, No Ration Card",
+            "D. One Nation, One Ration Card"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 6,
+        "questionText": "In the past, MGNREGA has ___.",
+        "options": [
+            "A. decreased rural wages",
+            "B. increased gender wage gaps",
+            "C. enabled poor access to food",
+            "D. reduced distress migration from rural areas"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 6,
+        "questionText": "Wheat productivity can suffer if ___.",
+        "options": [
+            "A. temperature rises",
+            "B. temperature does not change",
+            "C. temperature falls",
+            "D. none of the given"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 6,
+        "questionText": "Bringing forgotten and neglected foods like yam into cultivation and onto the market is called ___.",
+        "options": [
+            "A. diversifying food basket",
+            "B. restricting food basket",
+            "C. completing food box",
+            "D. wasting food basket"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 6,
+        "questionText": "Home gardening has been proven as a reliable source to supplement food and nutritional security at the household level.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 7,
+        "questionText": "Which of the following is a type of energy?",
+        "options": [
+            "A. fossil fuels",
+            "B. nuclear power",
+            "C. traditional biomass",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 7,
+        "questionText": "In IPCC by UN, I stands for ___.",
+        "options": [
+            "A. Industrial",
+            "B. Internal",
+            "C. International",
+            "D. Intergovernmental"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 7,
+        "questionText": "The extraction, transport and refinement of nuclear fuels results in___.",
+        "options": [
+            "A. improvement of land from mining",
+            "B. pollution of air and water",
+            "C. replenishment of biodiversity",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 7,
+        "questionText": "The greatest contributor to air pollution in China is ___.",
+        "options": [
+            "A. cooking and heating",
+            "B. coal burning",
+            "C. transport",
+            "D. forest burning"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 7,
+        "questionText": "In the wake of tsunami and nuclear disaster following severe earthquake in 2011, a city in Japan set a target for ___ by 2022.",
+        "options": [
+            "A. hundred net energy",
+            "B. one net energy",
+            "C. million net energy",
+            "D. zero net energy"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 7,
+        "questionText": "The term ‘energy democracy’ grew out of the ___ movement.",
+        "options": [
+            "A. hunger justice",
+            "B. hunger revolt",
+            "C. climate revolt",
+            "D. climate justice"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 7,
+        "questionText": "The Paris Agreement is a legally binding treaty on ___ adopted by 196 parties at COP 21 in 2015.",
+        "options": [
+            "A. climate change",
+            "B. education",
+            "C. poverty",
+            "D. none of the given"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 7,
+        "questionText": "The Government of India launched the NAPCC in 2008 outlining ___ National Missions on climate change.",
+        "options": [
+            "A. 8",
+            "B. 2",
+            "C. 100",
+            "D. 78"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 7,
+        "questionText": "Stubble burning usually takes place in the months of ___.",
+        "options": [
+            "A. October-November",
+            "B. May-June",
+            "C. January-February",
+            "D. July-August"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 7,
+        "questionText": "Stubble burning is ___.",
+        "options": [
+            "A. intentional",
+            "B. natural",
+            "C. healthy for air quality",
+            "D. related to burning of paper"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 8,
+        "questionText": "The Okayama Commitment is from ___.",
+        "options": [
+            "A. Russia",
+            "B. South Korea",
+            "C. North Korea",
+            "D. Japan"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 8,
+        "questionText": "Which of the following is a policy support mechanism of Okayama Commitment?",
+        "options": [
+            "A. Taking money",
+            "B. Content development",
+            "C. Exploitation of resources",
+            "D. None of the given"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 8,
+        "questionText": "Education is related to SDG 9 such that ___.",
+        "options": [
+            "A. education helps in skills required to build resilient infrastructure",
+            "B. education enhances skills to use natural resources more sustainably",
+            "C. education is critical to lifting people out of poverty",
+            "D. education helps reduce gender gaps"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 8,
+        "questionText": "The frame model structures sustainability competencies into ___ goal dimensions.",
+        "options": [
+            "A. 8",
+            "B. 3",
+            "C. 11",
+            "D. 45"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 8,
+        "questionText": "Sustainability issues must be looked at through a ___ approach.",
+        "options": [
+            "A. isolated thinking",
+            "B. independent thinking",
+            "C. silos thinking",
+            "D. systems thinking"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 8,
+        "questionText": "Technology and Science can alone solve all our sustainability problems.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 8,
+        "questionText": "GAP in the context of ESD stands for ___.",
+        "options": [
+            "A. Global Action Programme",
+            "B. Great Actvity Plan",
+            "C. Global Attention Programme",
+            "D. Great Action Policy"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 8,
+        "questionText": "___ competency is the ability to understand and evaluate multiple futures.",
+        "options": [
+            "A. anticipatory",
+            "B. normative",
+            "C. strategic",
+            "D. collaborative"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 8,
+        "questionText": "The ability to question norms is ___ competency.",
+        "options": [
+            "A. critical thinking",
+            "B. normative",
+            "C. anticipatory",
+            "D. self-awareness"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 8,
+        "questionText": "Action-oriented learning draws on Kolb’s concept of ___.",
+        "options": [
+            "A. experiential learning",
+            "B. experimental learning",
+            "C. rote learning",
+            "D. direct learning"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 9,
+        "questionText": "Activities like fish bowl discussion help ___.",
+        "options": [
+            "A. passive thinking",
+            "B. critical and reflexive thinking",
+            "C. rote-memory",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 9,
+        "questionText": "Which of the following is not a vision-building exercise?",
+        "options": [
+            "A. scenario analysis",
+            "B. classroom teaching",
+            "C. science fiction thinking",
+            "D. dystopian storytelling"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 9,
+        "questionText": "The ability to hold contradictory thoughts and feelings is an ___ competency.",
+        "options": [
+            "A. intellectual",
+            "B. interpersonal",
+            "C. intrapersonal",
+            "D. institutional"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 9,
+        "questionText": "___intelligences is proposed by Howard Gardner.",
+        "options": [
+            "A. multiple",
+            "B. singular",
+            "C. double",
+            "D. triple"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 9,
+        "questionText": "___intelligence refers to using one’s body in skilled ways.",
+        "options": [
+            "A. kinesthetic",
+            "B. musical",
+            "C. naturalist",
+            "D. spatial"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 9,
+        "questionText": "The idea of big transformation implies that changes in individual action are intertwined with ___.",
+        "options": [
+            "A. reorganization of self",
+            "B. reorganization of societal structures",
+            "C. ignorance of others",
+            "D. none of the given"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 9,
+        "questionText": "In ___ learning, learners start to question all the things they knew to make room for new insights and information.",
+        "options": [
+            "A. transformative",
+            "B. transactional",
+            "C. trivial",
+            "D. trans-disciplinary"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 9,
+        "questionText": "Which of the following is a key principle of adult education?",
+        "options": [
+            "A. need to know why",
+            "B. guilt",
+            "C. boredom",
+            "D. none of the given"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 9,
+        "questionText": "___ Sustainable Development is a \nprocess through which people influence and share control over \ndevelopment initiatives, decisions and resources that affects them.",
+        "options": [
+            "A. Internal",
+            "B. Societal",
+            "C. Participatory",
+            "D. Transformational"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 9,
+        "questionText": "___ is the common regulatory body for higher education in India.",
+        "options": [
+            "A. HECI",
+            "B. WHO",
+            "C. AIIMS",
+            "D. None of the given"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 10,
+        "questionText": "Sustainable leaders look at immediate, short-term gains.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 10,
+        "questionText": "The need of the hour is to have leaders who ___.",
+        "options": [
+            "A. focus only on business profit",
+            "B. focus only on building technical solutions",
+            "C. take a holistic approach",
+            "D. none of the given"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 10,
+        "questionText": "Which of the following is a part of the 3Ps of triple bottom line?",
+        "options": [
+            "A. Profit",
+            "B. Passion",
+            "C. Party",
+            "D. Pivot"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 10,
+        "questionText": "Organizations need leaders who create value for ___.",
+        "options": [
+            "A. internal stakeholders",
+            "B. external stakeholders",
+            "C. oneself",
+            "D. all stakeholders"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 10,
+        "questionText": "The sustainability mindset involves ___.",
+        "options": [
+            "A. transparency",
+            "B. presencing",
+            "C. integrity",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 10,
+        "questionText": "Finding ways to maintain one’s own and others’ energy is an unsustainable leadership practice.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 10,
+        "questionText": "Systems thinking is often highlighted by the ability to ___.",
+        "options": [
+            "A. zoom in",
+            "B. zoom out",
+            "C. zoom in and out",
+            "D. none of the given"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 10,
+        "questionText": "Practicing consciousness awareness includes ___.",
+        "options": [
+            "A. ignoring self with others",
+            "B. forgetting about what has happened and moving on",
+            "C. living in denial",
+            "D. authentic interactions"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 10,
+        "questionText": "Leadership ____________ is the last challenge of leadership; of letting go, moving on, and planning for one’s own obsolescence.",
+        "options": [
+            "A. succession",
+            "B. regression",
+            "C. formation",
+            "D. integration"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 10,
+        "questionText": "____________leadership is also called missionary leadership and is different from quiet leadership.",
+        "options": [
+            "A. participative",
+            "B. servant",
+            "C. radical",
+            "D. inspirational"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 11,
+        "questionText": "There is one universal curriculum to become a sustainable leader.",
+        "options": [
+            "A. True",
+            "B. False"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 11,
+        "questionText": "A sustainable leader has a ___ decision-making style.",
+        "options": [
+            "A. forceful",
+            "B. autocratic",
+            "C. selfish",
+            "D. consensual"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 11,
+        "questionText": "A sustainable leader must have awareness of ___ contexts.",
+        "options": [
+            "A. ecological",
+            "B. economic",
+            "C. political",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 11,
+        "questionText": "The ‘results’ component of sustainable leadership relates with the ___ dimension.",
+        "options": [
+            "A. instituional",
+            "B. social",
+            "C. environmental",
+            "D. economic"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 11,
+        "questionText": "___ India gives a theory U that consists of aspects like co-initiating, co-sensing and co-evolving among others.",
+        "options": [
+            "A. HEAD",
+            "B. SAID",
+            "C. GEAD",
+            "D. LEAD"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 11,
+        "questionText": "The __ component in theory ‘U’ entails prototyping the new.",
+        "options": [
+            "A. co-evolving",
+            "B. co-initiating",
+            "C. co-sensing",
+            "D. co-creating"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 11,
+        "questionText": "Which of the following factor does not aid in becoming a global leader?",
+        "options": [
+            "A. willingness to stay in one’s comfort zone",
+            "B. undesirable circumstances like poverty",
+            "C. confidence to embrace risk",
+            "D. willingness to learn from failure"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 11,
+        "questionText": "According to Maxwell, there are ___ levels of leadership.",
+        "options": [
+            "A. 15",
+            "B. 25",
+            "C. 50",
+            "D. 5"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 11,
+        "questionText": "The ___, in relation to their Global \nLeadership Fellowship program, describes global leaders as dynamic, \nengaged and driven individuals who possess a high degree of intellectual\n curiosity and service-oriented humility; an entrepreneur in the global \npublic interest with a profound sense of purpose regardless of the scale\n and scope of the challenge.",
+        "options": [
+            "A. World Health Organization",
+            "B. World Labor Organization",
+            "C. World Economic Forum",
+            "D. World Political Forum"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 11,
+        "questionText": "SDG ___ is to make cities and human settlements inclusive, safe, resilient, and sustainable.",
+        "options": [
+            "A. 2",
+            "B. 10",
+            "C. 11",
+            "D. 5"
+        ],
+        "correctAnswerIndex": 2
+    },
+    {
+        "week": 12,
+        "questionText": "___resources are those that exist in the absence of human intervention.",
+        "options": [
+            "A. Artificial",
+            "B. Natural",
+            "C. Fake",
+            "D. Real"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 12,
+        "questionText": "The food sector accounts for around ___ percent of total greenhouse gas emissions.",
+        "options": [
+            "A. 3",
+            "B. 22",
+            "C. 100",
+            "D. 90"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "week": 12,
+        "questionText": "Which of the following is not a solution for natural resource depletion?",
+        "options": [
+            "A. use less renewable energy",
+            "B. promote sustainable fishing growth",
+            "C. reduce food waste",
+            "D. treat wastewater before discharging"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 12,
+        "questionText": "In order to support reform on green \nfiscal policy, UN Environment has established the _________________ in \npartnership with the International Monetary Fund.",
+        "options": [
+            "A. Green Fiscal Policy Network",
+            "B. Blue Fiscal Policy Network",
+            "C. Green Fishery Policy Network",
+            "D. Green Fiscal Policy Natural"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 12,
+        "questionText": "As responsible consumers, we should ask ourselves “___” before buying anything.",
+        "options": [
+            "A. do I really need it?",
+            "B. how long will I use it?",
+            "C. can I borrow it from someone I know?",
+            "D. all of the given"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 12,
+        "questionText": "A bulb thrown out after usage forms __.",
+        "options": [
+            "A. wet waste",
+            "B. valuable waste",
+            "C. responsible waste",
+            "D. e-waste"
+        ],
+        "correctAnswerIndex": 3
+    },
+    {
+        "week": 12,
+        "questionText": "SDG ________________ seeks to promote \ninternational trade, and help developing countries increase their \nexports to ensure a universal rules-based and equitable trading system \nthat is fair, open and beneficial to all.",
+        "options": [
+            "A. 17",
+            "B. 2",
+            "C. 6",
+            "D. 11"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 12,
+        "questionText": "According to Gandhiji, wealth should be used for ______________.",
+        "options": [
+            "A. the betterment of the humanity",
+            "B. personal indulgence",
+            "C. conflicts",
+            "D. politics"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 12,
+        "questionText": "The ___________________ initiated and \nspearheaded by Gandhiji is the preeminent prototype of small and cottage\n industries. Strengthening village economy, and thus, reducing excessive\n urbanization can make human settlements safe, resilient and \nsustainable.",
+        "options": [
+            "A. Khadi Movement",
+            "B. Salt March",
+            "C. Cotton Movement",
+            "D. Non-violent Protest"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "week": 12,
+        "questionText": "_____________ is the ability of a system to absorb disturbances & retain its basic function and structure.",
+        "options": [
+            "A. resilience",
+            "B. gratitude",
+            "C. mindfulness",
+            "D. sustainable consumption"
+        ],
+        "correctAnswerIndex": 0
+    }
+]

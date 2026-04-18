@@ -1420,13 +1420,13 @@
   },
   {
     "week": 12,
-    "questionText": "Choose the correct statement:",
+    "questionText": "Vertical arrangement of soil horizons is called",
     "options": [
-      "A) For a non-circular cross-section, girth tape over-estimates the sectional area.",
-      "B) For a non-circular cross-section, girth tape under-estimates the sectional area.",
-      "C) For a non-circular cross-section, girth tape correctly estimates the sectional area.",
-      "D) None of these is a correct statement."
+      "A) soil texture",
+      "B) soil structure",
+      "C) soil profile",
+      "D) soil science"
     ],
-    "correctAnswerIndex": 3
+    "correctAnswerIndex": 2
   }
 ]
