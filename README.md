@@ -1,16 +1,65 @@
-# React + Vite
+# Interactive Quiz Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, highly interactive quiz application built with **React**, **Three.js**, and **Tailwind CSS**. Designed to deliver a premium learning experience, this application features immersive 3D backgrounds, particle effects, and dynamic theme switching, ensuring users stay engaged while testing their knowledge.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Multi-Subject Support**: Choose between different subjects such as *Forests and their Management* and *Education for Sustainable Development*.
+- **Dynamic Quiz Modes**: 
+  - **Weekly Quizzes**: Filter and take quizzes based on specific weeks.
+  - **Mixed Mode**: Test your knowledge across all available questions in a randomized order.
+- **Randomization Engine**: Questions and their multiple-choice options are dynamically shuffled using the Fisher-Yates algorithm every time a quiz is started to prevent memorization of answer positions.
+- **Immersive UI/UX**:
+  - Interactive **3D Backgrounds** powered by React Three Fiber.
+  - Interactive **Particle Effects** powered by tsparticles.
+  - Seamless **Dark / Light Mode** switching with smooth gradient transitions.
+  - Glassmorphic card designs using Tailwind CSS.
+- **Navigation Controls**: Includes a progress bar and the ability to go back and review previous questions without losing current answers.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Framework**: React 19 via Vite
+- **Styling**: Tailwind CSS v4, clsx, tailwind-merge
+- **UI Icons**: Lucide React
+- **3D & Animations**: Three.js, @react-three/fiber, @react-three/drei, @tsparticles/react
+- **Analytics**: Vercel Analytics
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Prerequisites
+
+You need [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. Clone the repository and navigate to the project folder:
+   ```bash
+   cd fm
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Build for production:
+   ```bash
+   npm run build
+   ```
+
+## Data Management
+
+Quiz questions are stored locally in the `src/assets/` directory as JSON files:
+- `forest.json`
+- `education.json`
+
+You can update or add new questions by editing these JSON files.
+
+## Scripts Context
+
+`parseQuestions.cjs`: A utility script available in the project root to help parse and format raw question text into the required JSON structure.
