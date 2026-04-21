@@ -58,6 +58,8 @@ function App() {
 
     if (session.mode === 'week') {
       filtered = dataset.filter(q => q.week === session.week);
+    } else if (session.mode === 'mock') {
+      filtered = dataset.filter(q => String(q.week) !== '0' && q.week !== 0);
     } else if (session.mode === 'mix') {
       filtered = [...dataset];
     }
@@ -92,13 +94,17 @@ function App() {
       [filtered[i], filtered[j]] = [filtered[j], filtered[i]];
     }
 
+    if (session.mode === 'mock') {
+      filtered = filtered.slice(0, 50);
+    }
+
     return filtered;
   }, [session, subject]);
 
   return (
     <div className="min-h-screen flex items-center justify-center p-4 relative flex-col">
-      <Analytics />
-      <ThemeToggle theme={theme} setTheme={setTheme} />
+      {typeof process !== 'undefined' && process.env?.VERCEL && <Analytics />}
+      {session?.mode !== 'mock' && <ThemeToggle theme={theme} setTheme={setTheme} />}
 
       {/* 3D and Particle Backgrounds */}
       <ThreeBackground theme={theme} />
@@ -128,6 +134,7 @@ function App() {
           <QuizInterface
             questions={activeQuestions}
             onGoHome={handleGoHome}
+            mode={session?.mode}
           />
         )}
       </main>

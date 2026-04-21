@@ -70,10 +70,19 @@ export function HomeMenu({ onStart, questionsData, courseTitle, Icon, onBack }) 
 
           <button
             onClick={() => onStart({ mode: 'mix' })}
-            className="w-full py-3 sm:py-4 rounded-xl text-white text-sm sm:text-base font-bold tracking-widest uppercase transition-all shadow-[0_0_20px_rgba(99,102,241,0.4)] hover:shadow-[0_0_30px_rgba(99,102,241,0.6)] hover:-translate-y-1 btn-space"
+            className="w-full py-3 sm:py-4 rounded-xl text-white text-sm sm:text-base font-bold tracking-widest uppercase transition-all shadow-[0_0_20px_rgba(99,102,241,0.4)] hover:shadow-[0_0_30px_rgba(99,102,241,0.6)] hover:-translate-y-1 btn-space mb-4 flex flex-col items-center justify-center gap-1"
             style={{ backgroundColor: 'var(--neon-blue)' }}
           >
-            Start Mixed Session
+            <span>Start Mixed Session</span>
+            <span className="text-xs normal-case tracking-normal opacity-90">(130 question)</span>
+          </button>
+          <button
+            onClick={() => onStart({ mode: 'mock' })}
+            className="w-full py-3 sm:py-4 rounded-xl text-white text-sm sm:text-base font-bold tracking-widest uppercase transition-all shadow-[0_0_20px_rgba(234,179,8,0.4)] hover:shadow-[0_0_30px_rgba(234,179,8,0.6)] hover:-translate-y-1 btn-space flex flex-col items-center justify-center gap-1"
+            style={{ backgroundColor: '#eab308' }}
+          >
+            <span>Mock Test</span>
+            <span className="text-xs normal-case tracking-normal opacity-90">(50 questions)</span>
           </button>
         </div>
       </div>

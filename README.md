@@ -8,6 +8,12 @@ A modern, highly interactive quiz application built with **React**, **Three.js**
 - **Dynamic Quiz Modes**: 
   - **Weekly Quizzes**: Filter and take quizzes based on specific weeks.
   - **Mixed Mode**: Test your knowledge across all available questions in a randomized order.
+  - **Mock Examinations**: A strict exam environment generating a 50-question mock paper.
+    - Features a persistent countdown timer (180 minutes).
+    - Cheating deterrence via automatic browser fullscreen enforcement, tab-switch logging, and exit prompts.
+    - Specialized grading mapping (S and A grades).
+    - Generates a detailed exam report highlighting accurate breakdowns and correct answers.
+  - **Smart Filtering**: Automatically filters out introductory "Week 0" questions from rigorous test modes.
 - **Randomization Engine**: Questions and their multiple-choice options are dynamically shuffled using the Fisher-Yates algorithm every time a quiz is started to prevent memorization of answer positions.
 - **Immersive UI/UX**:
   - Interactive **3D Backgrounds** powered by React Three Fiber.
